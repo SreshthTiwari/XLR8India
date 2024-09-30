@@ -4,7 +4,7 @@ This repo contains the source files for the demo website I've prepared for XLR8 
 
 ## Live Version
 
-I've hosted the website on github pages; check out the [live version](/https://sreshthtiwari.github.io/XLR8India/).
+I've hosted the website on github pages; check out the [live version](https://sreshthtiwari.github.io/XLR8India/).
 
 ## Tech Stack
 
